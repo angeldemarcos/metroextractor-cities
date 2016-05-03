@@ -3249,6 +3249,14 @@
                         "right": "-3.057"
                     }
                 },
+                "malaga_spain": {
+                    "bbox": {
+                        "top": "36.463",
+                        "left": "-4.511",
+                        "bottom": "36.660",
+                        "right": "-4.319"
+                    }
+                },
                 "matera_italy": {
                     "bbox": {
                         "top": "40.766",
